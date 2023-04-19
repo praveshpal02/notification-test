@@ -1,10 +1,1 @@
-{
-  "name": "Notification",
-  "short_name": "Notification",
-  "theme_color": "#2196f3",
-  "background_color": "#2196f3",
-  "display": "browser",
-  "scope": "/",
-  "start_url": "/",
-  "id": "/home"
-}
+{"name":"Notification","short_name":"Notification","start_url":"https://magenta-wisp-9d0710.netlify.app/","id":"https://magenta-wisp-9d0710.netlify.app/","display":"standalone","background_color":"#ffffff","theme_color":"#ffffff","icons":[{"src":"https://cdn.pushalert.co/img/pushalert-square-icon-512.png","sizes":"192x192"}]}
